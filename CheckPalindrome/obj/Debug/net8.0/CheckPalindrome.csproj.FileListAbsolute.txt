@@ -1,0 +1,15 @@
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\bin\Debug\net8.0\CheckPalindrome.exe
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\bin\Debug\net8.0\CheckPalindrome.deps.json
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\bin\Debug\net8.0\CheckPalindrome.runtimeconfig.json
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\bin\Debug\net8.0\CheckPalindrome.dll
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\bin\Debug\net8.0\CheckPalindrome.pdb
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\CheckPalindrome.AssemblyInfoInputs.cache
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\CheckPalindrome.AssemblyInfo.cs
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\CheckPalindrome.csproj.CoreCompileInputs.cache
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\CheckPalindrome.sourcelink.json
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\CheckPalindrome.dll
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\refint\CheckPalindrome.dll
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\CheckPalindrome.pdb
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\CheckPalindrome.genruntimeconfig.cache
+R:\Learning\Career\CSharpWarmup\Checkpalindrome\obj\Debug\net8.0\ref\CheckPalindrome.dll
