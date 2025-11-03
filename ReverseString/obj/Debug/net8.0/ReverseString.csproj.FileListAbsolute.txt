@@ -1,0 +1,14 @@
+R:\Learning\Career\CSharpWarmup\ReverseString\bin\Debug\net8.0\ReverseString.exe
+R:\Learning\Career\CSharpWarmup\ReverseString\bin\Debug\net8.0\ReverseString.deps.json
+R:\Learning\Career\CSharpWarmup\ReverseString\bin\Debug\net8.0\ReverseString.runtimeconfig.json
+R:\Learning\Career\CSharpWarmup\ReverseString\bin\Debug\net8.0\ReverseString.dll
+R:\Learning\Career\CSharpWarmup\ReverseString\bin\Debug\net8.0\ReverseString.pdb
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfoInputs.cache
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfo.cs
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\ReverseString.csproj.CoreCompileInputs.cache
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\ReverseString.dll
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\refint\ReverseString.dll
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\ReverseString.pdb
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\ReverseString.genruntimeconfig.cache
+R:\Learning\Career\CSharpWarmup\ReverseString\obj\Debug\net8.0\ref\ReverseString.dll
