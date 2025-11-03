@@ -1,0 +1,15 @@
+R:\Learning\Career\CSharpWarmup\EachCharInString\bin\Debug\net8.0\EachCharInString.exe
+R:\Learning\Career\CSharpWarmup\EachCharInString\bin\Debug\net8.0\EachCharInString.deps.json
+R:\Learning\Career\CSharpWarmup\EachCharInString\bin\Debug\net8.0\EachCharInString.runtimeconfig.json
+R:\Learning\Career\CSharpWarmup\EachCharInString\bin\Debug\net8.0\EachCharInString.dll
+R:\Learning\Career\CSharpWarmup\EachCharInString\bin\Debug\net8.0\EachCharInString.pdb
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\EachCharInString.GeneratedMSBuildEditorConfig.editorconfig
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\EachCharInString.AssemblyInfoInputs.cache
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\EachCharInString.AssemblyInfo.cs
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\EachCharInString.csproj.CoreCompileInputs.cache
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\EachCharInString.sourcelink.json
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\EachCharInString.dll
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\refint\EachCharInString.dll
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\EachCharInString.pdb
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\EachCharInString.genruntimeconfig.cache
+R:\Learning\Career\CSharpWarmup\EachCharInString\obj\Debug\net8.0\ref\EachCharInString.dll
