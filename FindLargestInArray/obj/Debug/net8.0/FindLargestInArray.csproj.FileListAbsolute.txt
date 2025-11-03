@@ -1,0 +1,15 @@
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\bin\Debug\net8.0\FindLargestInArray.exe
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\bin\Debug\net8.0\FindLargestInArray.deps.json
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\bin\Debug\net8.0\FindLargestInArray.runtimeconfig.json
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\bin\Debug\net8.0\FindLargestInArray.dll
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\bin\Debug\net8.0\FindLargestInArray.pdb
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\FindLargestInArray.GeneratedMSBuildEditorConfig.editorconfig
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\FindLargestInArray.AssemblyInfoInputs.cache
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\FindLargestInArray.AssemblyInfo.cs
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\FindLargestInArray.csproj.CoreCompileInputs.cache
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\FindLargestInArray.sourcelink.json
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\FindLargestInArray.dll
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\refint\FindLargestInArray.dll
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\FindLargestInArray.pdb
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\FindLargestInArray.genruntimeconfig.cache
+R:\Learning\Career\CSharpWarmup\FindLargestInArray\obj\Debug\net8.0\ref\FindLargestInArray.dll
