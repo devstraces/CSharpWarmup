@@ -6,6 +6,8 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 
 ## 📌 To-Do Programs
 
+   -First 10 Days
+
 - [x] Day 01 – Hello World
 - [x] Day 02 – Print Name and Age
 - [x] Day 03 – Add Two Numbers
