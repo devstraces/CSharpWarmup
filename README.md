@@ -28,7 +28,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - Day 03: Add Two Numbers (02/08/2026) 🎯
 - Day 04: Check Even or Odd (02/09/2026) 🎯
 - Day 05: Find Largest of Two Numbers (02/09/2026)
-- Day 06: Simple Calculator (Add / Subtract)
+- Day 06: Simple Calculator (Add / Subtract) (02/09/2026)
 
 (Add one line here every day)
 
