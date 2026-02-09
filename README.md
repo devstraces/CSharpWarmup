@@ -10,7 +10,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - [x] Day 02 – Print Name and Age
 - [x] Day 03 – Add Two Numbers
 - [x] Day 04 – Check Even or Odd
-- [ ] Day 05 – Find Largest of Two Numbers
+- [x] Day 05 – Find Largest of Two Numbers
 - [ ] Day 06 – Simple Calculator (Add / Subtract)
 - [ ] Day 07 – Check Leap Year
 - [ ] Day 08 – Reverse a String
@@ -25,6 +25,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - Day 02: Print Name and Age (02/08/2026) 🎯
 - Day 03: Add Two Numbers (02/08/2026) 🎯
 - Day 04: Check Even or Odd (02/09/2026) 🎯
+- Day 05: Find Largest of Two Numbers (02/09/2026)
 
 (Add one line here every day)
 
