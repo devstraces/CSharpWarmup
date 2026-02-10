@@ -16,7 +16,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - [x] Day 06 – Simple Calculator (Add / Subtract)
 - [x] Day 07 – Check Leap Year
 - [x] Day 08 – Reverse a String
-- [ ] Day 09 – Count Digits of a Number
+- [x] Day 09 – Count Digits of a Number
 - [ ] Day 10 – Sum of First N Numbers
 
 ---
@@ -31,6 +31,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 - Day 06: Simple Calculator (Add / Subtract) (02/09/2026) 🎯
 - Day 07: Check Leap Year (02/09/2026) 🎯
 - Day 08: Reverse a String (02/09/2026) 🎯
+- Day 09: Count Digits of a Number (02/09/2026) 🎯
 
 (Add one line here every day)
 
