@@ -15,6 +15,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 ## 📝 Progress Log (MM/DD/YYYY)
 
 - Day 01: Find the maximum number in an array. (02/14/2026) 🎯
+- Day 01: Reverse An Array. (02/16/2026) 🎯
 
 (Add one line here every day)
 

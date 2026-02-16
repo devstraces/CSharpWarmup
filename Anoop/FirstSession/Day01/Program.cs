@@ -4,6 +4,14 @@ int result = FindMax(arr);
 Console.WriteLine("Maximum element is: " + result);
 
 
+int[] arr2 = {1, 2, 3, 4, 5};
+ReverseArray(arr2);
+ foreach(int num in arr)
+  {
+       Console.Write(num + " ");
+  }
+
+ 
 
 
 // Function to find the maximum element in an array
@@ -21,3 +29,22 @@ static int FindMax(int[] arr)
 
     return max;
 }
+
+
+ static void ReverseArray(int[] arr)
+ {
+     int left = 0;
+        int right = arr.Length - 1;
+
+        while(left < right)
+        {
+            // swap
+            int temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+
+            left++;
+            right--;
+        }
+ }
+    
