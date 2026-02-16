@@ -13,7 +13,7 @@ ReverseArray(arr2);
 
 Console.Read();
  
- //Checkin Test
+ //Sample
 
 
 // Function to find the maximum element in an array
