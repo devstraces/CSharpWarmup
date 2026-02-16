@@ -6,11 +6,12 @@ Console.WriteLine("Maximum element is: " + result);
 
 int[] arr2 = {1, 2, 3, 4, 5};
 ReverseArray(arr2);
- foreach(int num in arr)
+ foreach(int num in arr2)
   {
        Console.Write(num + " ");
   }
 
+Console.Read();
  
 
 
