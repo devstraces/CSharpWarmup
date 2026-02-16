@@ -16,6 +16,7 @@ Goal: Learn something new in C# every day and commit daily to build discipline, 
 
 - Day 01: Find the maximum number in an array. (02/14/2026) 🎯
 - Day 01: Reverse An Array. (02/16/2026) 🎯
+- Day 02: Remove duplicate from  An Array. (02/16/2026) 🎯
 
 (Add one line here every day)
 
